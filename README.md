@@ -64,22 +64,7 @@
 </p>  
 
 ---
-## Competitive Programming
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar&theme=dark&hide_border=true)
 
-<p align="left">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/aditya_sirsalkar">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white" />
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/aditya_sirsalkar">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brightgreen?logo=codechef&logoColor=white" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/aditya_sirsalkar/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" />
-  </a>
-</p>
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

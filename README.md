@@ -64,8 +64,7 @@
 </p>  
 
 ---
-## 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar&show_icons=true&theme=radical)
+
 
 
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

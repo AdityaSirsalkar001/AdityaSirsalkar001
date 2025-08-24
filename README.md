@@ -64,9 +64,8 @@
 </p>  
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar" />
+
 
 
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

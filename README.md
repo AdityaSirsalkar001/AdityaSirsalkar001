@@ -64,17 +64,22 @@
 </p>  
 
 ---
+## Competitive Programming
 
-## 📊 My Coding Activity
+<p align="left">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/aditya_sirsalkar">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white" />
+  </a>
 
-### 🚀 Competitive Programming Profiles
-[![LeetCode](https://leetcard.jacoblin.cool/AdityaSirsalkar?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/AdityaSirsalkar/)
-[![Codeforces](https://cf.leed.at?username=AdityaSirsalkar)](https://codeforces.com/profile/AdityaSirsalkar)
-[![CodeChef](https://codechef-stats.vercel.app/api?username=amaze_iiita_76&theme=dark)](https://www.codechef.com/users/amaze_iiita_76)
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/aditya_sirsalkar">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brightgreen?logo=codechef&logoColor=white" />
+  </a>
 
----
-
-### 🐍 GitHub Contributions
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake.svg)
-
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/aditya_sirsalkar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" />
+  </a>
+</p>
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

@@ -64,7 +64,8 @@
 </p>  
 
 ---
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar&theme=dark&hide_border=true)
+## 📊 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar&show_icons=true&theme=radical)
+
 
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

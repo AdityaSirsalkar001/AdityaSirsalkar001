@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Aditya Sirsalkar  
 
-🎓 B.Tech IT @ IIITA | 💻 Competitive Programmer | 🌱 Aspiring Software Engineer  
+🎓 B.Tech IT @ IIIT Allahabad | 💻 Competitive Programmer | 🌱 Web Developer  
 
 ---
 
 ## 🚀 About Me  
-- 🔹 Solved **500+ problems** across [LeetCode](https://leetcode.com/u/AdityaSirsalkar/), [Codeforces](https://codeforces.com/profile/AdityaSirsalkar), and [CodeChef](https://www.codechef.com/users/amaze_iiita_76).  
-- 🔹 Passionate about **DSA, Problem Solving, and Web Development**.  
-- 🔹 Currently exploring **C++ (Competitive Programming), Python, and React**.  
-- 🔹 Always curious to learn and build impactful solutions.  
+- 🔹 Solved **500+ problems** across [LeetCode](https://leetcode.com/u/AdityaSirsalkar/), [Codeforces](https://codeforces.com/profile/AdityaSirsalkar), and [CodeChef](https://www.codechef.com/users/amaze_iiita_76)  
+- 🔹 Passionate about **DSA, Problem Solving, and Web Development**  
+- 🔹 Exploring **React.js & Full Stack Development**  
+- 📫 Reach me at: **adityasirsalkar33@gmail.com**  
 
 ---
 
@@ -28,25 +28,31 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 💻 Languages & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,git,github" />
 </p>  
 
 ---
 
-## 🌟 Future Projects  
+## 📌 Projects  
 
-📌 *Coming Soon* – Exciting projects in:  
-- **Web Development**  
-- **AI/ML (exploration phase)**  
-- **DSA-focused utilities**  
+- 🔹 **FocusFlow** – Productivity app (Frontend only, built with HTML/CSS/JS)  
+- 🔹 *Coming Soon*: Full-stack projects & DSA-based utilities 🚀  
 
 ---
 
-## 📫 Connect with Me  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>  
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="mailto:adityasirsalkar33@gmail.com">
@@ -58,4 +64,4 @@
 </p>  
 
 ---
-⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar)
+⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

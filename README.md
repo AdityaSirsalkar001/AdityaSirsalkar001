@@ -64,4 +64,15 @@
 </p>  
 
 ---
+
+## 📊 My Coding Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditya_sirsalkar?theme=dark&font=baloo&ext=activity)
+![Codeforces Stats](https://raw.githubusercontent.com/AdityaSirsalkar/cf-stats/main/output/light_card.svg)
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=adityasirsalkar&theme=dark)
+
+---
+
+![GitHub Contribution Grid Snake](https://github.com/AdityaSirsalkar/AdityaSirsalkar/blob/output/github-contribution-grid-snake.svg)
+
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

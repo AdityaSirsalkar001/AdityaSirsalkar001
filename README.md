@@ -63,9 +63,9 @@
   </a>
 </p>  
 
----
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Karma&ext=contest)
-
+---<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
 
 
 ⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar001)

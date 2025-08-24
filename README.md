@@ -1,62 +1,61 @@
 # 👋 Hi, I'm Aditya Sirsalkar  
 
-🎓 2nd-year B.Tech IT student at **IIIT Allahabad**  
-💻 Passionate about **Competitive Programming, Web Development, and Problem Solving**  
-📩 Reach me at: **adityasirsalkar33@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/adityasirsalkar/) | [LeetCode](https://leetcode.com/u/AdityaSirsalkar/) | [Codeforces](https://codeforces.com/profile/AdityaSirsalkar) | [CodeChef](https://www.codechef.com/users/amaze_iiita_76)  
+🎓 B.Tech IT @ IIITA | 💻 Competitive Programmer | 🌱 Aspiring Software Engineer  
 
 ---
 
-## 🚀 Skills & Technologies  
-
-**Languages**: C, C++, Java, Python, JavaScript  
-**Frontend**: HTML, CSS, React.js  
-**Other**: Git, GitHub, Problem Solving  
+## 🚀 About Me  
+- 🔹 Solved **500+ problems** across [LeetCode](https://leetcode.com/u/AdityaSirsalkar/), [Codeforces](https://codeforces.com/profile/AdityaSirsalkar), and [CodeChef](https://www.codechef.com/users/amaze_iiita_76).  
+- 🔹 Passionate about **DSA, Problem Solving, and Web Development**.  
+- 🔹 Currently exploring **C++ (Competitive Programming), Python, and React**.  
+- 🔹 Always curious to learn and build impactful solutions.  
 
 ---
 
-## 🏆 Competitive Programming  
-
-- Solved **500+ problems** across multiple platforms (LeetCode, Codeforces, CodeChef)  
-- Strong foundation in **DSA, algorithms, and problem-solving**  
-
-### 📊 CP Profiles  
+## 🏆 Competitive Programming Profiles  
 
 <p align="center">
   <a href="https://leetcode.com/u/AdityaSirsalkar/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/AdityaSirsalkar">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/amaze_iiita_76">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p>
+</p>  
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>  
 
 ---
 
-## 📌 Projects  
+## 🌟 Future Projects  
 
-🔹 **FocusFlow** – Productivity app (Frontend only, built with HTML/CSS/JS)  
-🔹 Future projects coming soon... 🚀  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced **Data Structures & Algorithms**  
-- **React.js & Web Development**  
+📌 *Coming Soon* – Exciting projects in:  
+- **Web Development**  
+- **AI/ML (exploration phase)**  
+- **DSA-focused utilities**  
 
 ---
 
-⭐️ *"Code, Learn, Repeat – Growth through consistency."*  
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:adityasirsalkar33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityasirsalkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>  
+
+---
+⭐️ From [Aditya Sirsalkar](https://github.com/AdityaSirsalkar)

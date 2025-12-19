@@ -20,7 +20,7 @@
 I am a sophisticated **Software Engineering student** passionate about building scalable systems and solving complex algorithmic problems.
 
 - 👨‍💻 **Competitive Programming:** Solved **800+ problems** across platforms.
-- 🏆 **Achievements:** **Knight Badge** on LeetCode (Top 5%), **3-Star** on CodeChef, **Pupil** on Codeforces.
+- 🏆 **Achievements:** **Knight Badge** on LeetCode (Top 5%), **3-Star** on CodeChef, **Specialist** on Codeforces.
 - 🛠 **Tech Stack:** Specializing in **React.js, Node.js**, and **Performance Optimization**.
 - 🤝 **Collaboration:** Experienced in **Git flows**, code reviews, and leading frontend teams.
 

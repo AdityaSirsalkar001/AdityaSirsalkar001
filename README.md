@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Aditya Sirsalkar
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aditya+Sirsalkar;IIIT+Allahabad+Scholar+%F0%9F%8E%93;LeetCode+Knight+(1877)+%E2%9A%94%EF%B8%8F;Building+with+Wasm+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-### 🎓 B.Tech IT @ IIIT Allahabad | ⚔️ LeetCode Knight (1877) | 🚀 Full Stack Developer
-
-<p align="left">
+<p align="center">
   <a href="https://aditya-sirsalkar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" />
   </a>
@@ -17,24 +17,33 @@
 ---
 
 ## 🚀 About Me
-I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) passionate about building scalable systems and integrating AI into web solutions.
 
-- 👨‍💻 **Competitive Programming:** Solved **800+ problems**; **Knight** on LeetCode (Top 5%, Rating: 1877), **Specialist** on Codeforces.
-- 🛠 **Tech Stack:** Specialized in **C++**, **React.js**, **Node.js**, and **WebAssembly** for high-performance applications.
-- ♟️ **Leadership:** Organized a hybrid chess tournament for **100+ participants** (Online Qualifiers → Top 32 Offline Finals).
-- 🏆 **Academic:** Secured **AIR 5183** (99.68%ile) in JEE Main 2024.
+I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a strong foundation in algorithmic problem solving and high-performance web architecture.
+
+* 👨‍💻 **Competitive Coder:** Solved **800+ problems** across platforms. **Knight** on LeetCode (Top 5%), **Specialist** on Codeforces.
+* 🧠 **Core Interests:** Data Structures, System Design, and **WebAssembly** optimizations.
+* ♟️ **Community Leader:** Organized hybrid chess tournaments for **100+ participants**.
+* 🏆 **Background:** Secured **AIR 5183** (99.68%ile) in JEE Main 2024.
 
 ---
 
-## 🛠 Languages & Tools
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,r,html,css" alt="Languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,materialui,mysql,mongodb,git,github,vscode,vercel" alt="Frameworks & Tools" />
-</p>
+<div align="center">
 
-**Core Concepts:** Data Structures & Algorithms, OS, OOPs, SDLC, Agile Methodologies, System Design.
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,r,js,ts" />
+
+**Full Stack & AI**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,materialui" />
+
+**Tools & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,mysql,mongodb,postman" />
+
+</div>
 
 ---
 
@@ -42,34 +51,35 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) passio
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** <br> [🔴 Live Demo](https://swasthya-setu-swhi-awaezga4s-anshdeep-singhs-projects-dbaa79e9.vercel.app/) | `React` `Node.js` `Gemini API` | **Integrated Hospital-Patient Bridge.** Architected a centralized platform reducing scheduling time by **40%**. Integrated **Google Gemini AI** for symptom processing. |
-| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** <br> [🔴 Live Demo](https://pathfinding-visualizer-phi-orpin.vercel.app/) | `C++` `Wasm` `React` `TS` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). Visualizes A*, Dijkstra, and BFS on **2,500+ nodes**. |
-| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** <br> [🔴 Live Demo](https://project1-nine-phi.vercel.app/) | `React` `Tailwind` `LocalStorage` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. Reduced task organization time by **30%** via automated priority sorting. |
+| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** <br> [🔴 Live Demo](https://swasthya-setu-swhi-awaezga4s-anshdeep-singhs-projects-dbaa79e9.vercel.app/) | `React` `Node.js` `Gemini` | **Integrated Hospital-Patient Bridge.** Reduced scheduling time by **40%**. Integrated **Google Gemini AI** for intelligent symptom processing. |
+| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** <br> [🔴 Live Demo](https://pathfinding-visualizer-phi-orpin.vercel.app/) | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). Visualizes A*, Dijkstra, and BFS on **2,500+ nodes**. |
+| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** <br> [🔴 Live Demo](https://project1-nine-phi.vercel.app/) | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. Reduced task organization time by **30%** via automated sorting. |
+
+---
+
+## 📊 Coding Statistics
+
+<div align="center">
+  <a href="https://leetcode.com/u/AdityaSirsalkar/">
+    <img src="https://leetcard.jacoblin.cool/AdityaSirsalkar?theme=tokyonight&font=Inter&ext=heatmap" height="180" alt="LeetCode Stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="180" alt="GitHub Stats" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🧠 Currently Exploring
-*Improving code quality and system scalability.*
-* 🧪 **WebAssembly:** Pushing web performance limits by integrating C++ with React.
-* 🤖 **AI Integration:** Building smarter backends using LLM APIs (Gemini).
+* **WebAssembly:** Pushing web performance limits by integrating C++ with React.
+* **System Design:** Designing scalable backends and optimizing database queries.
 
 ---
 
-## 📊 Coding Stats
-
-<p align="left">
-  <a href="https://leetcode.com/u/AdityaSirsalkar/">
-    <img src="https://leetcard.jacoblin.cool/AdityaSirsalkar?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="180" />
-</p>
-
----
-
-<p align="center">
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AdityaSirsalkar001&icon=0&color=2" />
+  <br>
   <i>"Talk is cheap. Show me the code."</i>
-</p>
+</div>

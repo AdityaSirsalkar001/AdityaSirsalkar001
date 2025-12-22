@@ -66,13 +66,6 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=AdityaSirsalkar001&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/AdityaSirsalkar001/AdityaSirsalkar001/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Sirsalkar
 
-### 🎓 B.Tech IT @ IIIT Allahabad | ⚔️ LeetCode Knight (1850+) | 🚀 Full Stack Developer
+### 🎓 B.Tech IT @ IIIT Allahabad | ⚔️ LeetCode Knight (1877) | 🚀 Full Stack Developer
 
 <p align="left">
   <a href="https://aditya-sirsalkar.vercel.app/">
@@ -17,24 +17,24 @@
 ---
 
 ## 🚀 About Me
-I am a sophisticated **Software Engineering student** passionate about building scalable systems and solving complex algorithmic problems.
+I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) passionate about building scalable systems and integrating AI into web solutions.
 
-- 👨‍💻 **Competitive Programming:** Solved **800+ problems** across platforms.
-- 🏆 **Achievements:** **Knight Badge** on LeetCode (Top 5%), **3-Star** on CodeChef, **Specialist** on Codeforces.
-- 🛠 **Tech Stack:** Specializing in **React.js, Node.js**, and **Performance Optimization**.
-- 🤝 **Collaboration:** Experienced in **Git flows**, code reviews, and leading frontend teams.
+- 👨‍💻 **Competitive Programming:** Solved **800+ problems**; **Knight** on LeetCode (Top 5%, Rating: 1877), **Specialist** on Codeforces.
+- 🛠 **Tech Stack:** Specialized in **C++**, **React.js**, **Node.js**, and **WebAssembly** for high-performance applications.
+- ♟️ **Leadership:** Organized a hybrid chess tournament for **100+ participants** (Online Qualifiers → Top 32 Offline Finals).
+- 🏆 **Academic:** Secured **AIR 5183** (99.68%ile) in JEE Main 2024.
 
 ---
 
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,r,html,css" alt="Languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,materialui" alt="Frameworks" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb,mysql,linux,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,materialui,mysql,mongodb,git,github,vscode,vercel" alt="Frameworks & Tools" />
 </p>
+
+**Core Concepts:** Data Structures & Algorithms, OS, OOPS, SDLC, System Design.
 
 ---
 
@@ -42,16 +42,16 @@ I am a sophisticated **Software Engineering student** passionate about building 
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Your-Repo-Link)** | `React` `Node.js` `Git` `Google Maps` | **Frontend Lead & Git Manager.** A healthcare platform with role-based dashboards. Implemented **QA workflows** and **Database Indexing** for performance. |
-| ⚡ **[FocusFlow](https://project1-nine-phi.vercel.app/)** | `JavaScript` `LocalStorage` `DOM` | **Productivity App.** Features priority sorting and zero-latency updates. Optimized DOM manipulation for speed. |
-| 🌐 **[Portfolio](https://aditya-sirsalkar.vercel.app/)** | `React` `Tailwind` | **Personal Site.** A responsive component-based site aggregating my coding profiles and projects. |
+| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Your-Repo-Link)** | `React` `Node.js` `Gemini API` | **Full Stack & AI Integration.** A centralized healthcare platform. Integrated **Google Gemini** for symptom processing and reduced appointment scheduling time by **40%**. |
+| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Your-Repo-Link)** | `C++` `WebAssembly` `React` `TS` | **High-Performance Tool.** Engineered using **Wasm** for **10x faster execution** (sub-50ms latency). Visualizes A*, Dijkstra, and Bidirectional BFS on 2,500+ nodes. |
+| ⚡ **[FocusFlow](https://project1-nine-phi.vercel.app/)** | `React` `Tailwind` `LocalStorage` | **Productivity App.** Handles 50+ concurrent tasks with zero latency using optimized **React Hooks**. Reduced task organization time by **30%**. |
 
 ---
 
 ## 🧠 Currently Exploring
 *Improving code quality and system scalability.*
-* 🧪 **Unit Testing:** Learning **Jest** to write crash-proof backend code.
-* ⚡ **System Design:** Implementing **Redis Caching** to optimize database queries.
+* 🧪 **WebAssembly:** pushing web performance limits by integrating C++ with React.
+* 🤖 **AI Integration:** Building smarter backends using LLM APIs (Gemini).
 
 ---
 

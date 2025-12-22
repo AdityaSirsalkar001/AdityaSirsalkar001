@@ -34,7 +34,7 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) passio
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,materialui,mysql,mongodb,git,github,vscode,vercel" alt="Frameworks & Tools" />
 </p>
 
-**Core Concepts:** Data Structures & Algorithms, OS, OOPS, SDLC, System Design.
+**Core Concepts:** Data Structures & Algorithms, OS, OOPs, SDLC, Agile Methodologies, System Design.
 
 ---
 
@@ -42,15 +42,15 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) passio
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Your-Repo-Link)** | `React` `Node.js` `Gemini API` | **Full Stack & AI Integration.** A centralized healthcare platform. Integrated **Google Gemini** for symptom processing and reduced appointment scheduling time by **40%**. |
-| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Your-Repo-Link)** | `C++` `WebAssembly` `React` `TS` | **High-Performance Tool.** Engineered using **Wasm** for **10x faster execution** (sub-50ms latency). Visualizes A*, Dijkstra, and Bidirectional BFS on 2,500+ nodes. |
-| ⚡ **[FocusFlow](https://project1-nine-phi.vercel.app/)** | `React` `Tailwind` `LocalStorage` | **Productivity App.** Handles 50+ concurrent tasks with zero latency using optimized **React Hooks**. Reduced task organization time by **30%**. |
+| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** <br> [🔴 Live Demo](https://swasthya-setu-swhi-awaezga4s-anshdeep-singhs-projects-dbaa79e9.vercel.app/) | `React` `Node.js` `Gemini API` | **Integrated Hospital-Patient Bridge.** Architected a centralized platform reducing scheduling time by **40%**. Integrated **Google Gemini AI** for symptom processing. |
+| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** <br> [🔴 Live Demo](https://pathfinding-visualizer-phi-orpin.vercel.app/) | `C++` `Wasm` `React` `TS` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). Visualizes A*, Dijkstra, and BFS on **2,500+ nodes**. |
+| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** <br> [🔴 Live Demo](https://project1-nine-phi.vercel.app/) | `React` `Tailwind` `LocalStorage` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. Reduced task organization time by **30%** via automated priority sorting. |
 
 ---
 
 ## 🧠 Currently Exploring
 *Improving code quality and system scalability.*
-* 🧪 **WebAssembly:** pushing web performance limits by integrating C++ with React.
+* 🧪 **WebAssembly:** Pushing web performance limits by integrating C++ with React.
 * 🤖 **AI Integration:** Building smarter backends using LLM APIs (Gemini).
 
 ---

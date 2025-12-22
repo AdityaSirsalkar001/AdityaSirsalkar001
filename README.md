@@ -16,6 +16,8 @@
 
 ---
 
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
 ## 🚀 About Me
 
 I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a strong foundation in algorithmic problem solving and high-performance web architecture.
@@ -24,6 +26,8 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a
 * 🧠 **Core Interests:** Data Structures, System Design, and **WebAssembly** optimizations.
 * ♟️ **Community Leader:** Organized hybrid chess tournaments for **100+ participants**.
 * 🏆 **Background:** Secured **AIR 5183** (99.68%ile) in JEE Main 2024.
+
+<br clear="both">
 
 ---
 
@@ -51,30 +55,25 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** <br> [🔴 Live Demo](https://swasthya-setu-swhi-awaezga4s-anshdeep-singhs-projects-dbaa79e9.vercel.app/) | `React` `Node.js` `Gemini` | **Integrated Hospital-Patient Bridge.** Reduced scheduling time by **40%**. Integrated **Google Gemini AI** for intelligent symptom processing. |
-| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** <br> [🔴 Live Demo](https://pathfinding-visualizer-phi-orpin.vercel.app/) | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). Visualizes A*, Dijkstra, and BFS on **2,500+ nodes**. |
-| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** <br> [🔴 Live Demo](https://project1-nine-phi.vercel.app/) | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. Reduced task organization time by **30%** via automated sorting. |
+| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** | `React` `Node.js` `Gemini` | **Integrated Hospital-Patient Bridge.** Reduced scheduling time by **40%**. Integrated **Google Gemini AI** for intelligent symptom processing. |
+| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). Visualizes A*, Dijkstra, and BFS on **2,500+ nodes**. |
+| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. Reduced task organization time by **30%** via automated sorting. |
 
 ---
 
 ## 📊 Coding Statistics
 
 <div align="center">
-  <a href="https://leetcode.com/u/AdityaSirsalkar/">
-    <img src="https://leetcard.jacoblin.cool/AdityaSirsalkar?theme=tokyonight&font=Inter&ext=heatmap" height="180" alt="LeetCode Stats" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AdityaSirsalkar001&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github.com/AdityaSirsalkar001/AdityaSirsalkar001/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
-
-## 🧠 Currently Exploring
-* **WebAssembly:** Pushing web performance limits by integrating C++ with React.
-* **System Design:** Designing scalable backends and optimizing database queries.
 
 ---
 

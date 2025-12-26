@@ -72,6 +72,4 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=AdityaSirsalkar001&icon=0&color=2" />
-  <br>
-  <i>"Talk is cheap. Show me the code."</i>
 </div>

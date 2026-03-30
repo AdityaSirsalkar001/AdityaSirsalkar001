@@ -87,7 +87,7 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake-dark.svg?v=1" />
 </p>
 
 ## 🏆 GitHub Achievements

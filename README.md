@@ -19,8 +19,8 @@
 </p>
 
 ---
-<br/>
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+
 
 ## 🚀 About Me
 
@@ -30,6 +30,8 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 * 🧠 **Core Interests:** Data Structures, System Design, and **WebAssembly** optimizations.
 * ♟️ **Community Leader:** Organized hybrid chess tournaments for **100+ participants**.
 * 🏆 **Background:** Secured **AIR 5183** (99.68%ile) in JEE Main 2024.
+
+  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 <br clear="both">
 

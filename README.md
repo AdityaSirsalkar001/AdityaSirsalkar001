@@ -14,6 +14,11 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
+</div>
+
+<br/>
 ---
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />

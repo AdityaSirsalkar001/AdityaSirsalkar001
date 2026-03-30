@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <img src="./assets/Banner.svg" />
-</p>
 
 <br/>
 ---

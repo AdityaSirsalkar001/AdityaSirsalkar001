@@ -97,13 +97,15 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 ---
 
 <br/>
+<div align = "center">
+<img src="https://leetcard.jacoblin.cool/AdityaSirsalkar" align = "center" >
 
-<img src="https://leetcard.jacoblin.cool/AdityaSirsalkar" align = "left" />
-
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AdityaSirsalkar" align = "right"/>
+<br/>
+<br/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AdityaSirsalkar" align = "center"/>
 
 <br />
+</div>
 
 <!-- 
 <div align="center">

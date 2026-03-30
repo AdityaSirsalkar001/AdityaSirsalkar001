@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a strong foundation in algorithmic problem solving and high-performance web architecture.
+I am a **Software Engineering student** at **IIIT Allahabad** with a strong foundation in algorithmic problem solving and high-performance web architecture.
 
 * 👨‍💻 **Competitive Coder:** Solved **800+ problems** across platforms. **Knight** on LeetCode (Top 5%), **Specialist** on Codeforces.
 * 🧠 **Core Interests:** Data Structures, System Design, and **WebAssembly** optimizations.
@@ -56,16 +56,49 @@ I am a **Software Engineering student** at **IIIT Allahabad** (CGPA: 8.4) with a
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** | `React` `Node.js` `Gemini` | **Integrated Hospital-Patient Bridge.** Reduced scheduling time by **40%**. Integrated **Google Gemini AI** for intelligent symptom processing. |
-| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). Visualizes A*, Dijkstra, and BFS on **2,500+ nodes**. |
-| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. Reduced task organization time by **30%** via automated sorting. |
+| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). |
+| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. |
 
 ---
 
 ## 📊 Coding Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150" />
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar001&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&theme=tokyo-night" width="95%" />
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+- 🏅 **LeetCode Knight** — Top 5% (Max Rating 1877)
+- ⚡ **Codeforces Specialist** — Max Rating 1465
+- ⭐ **CodeChef 3★** — Max Rating 1640
+- 🎯 **JEE Main 2024** — AIR 5183 (99.68 percentile)
+- 🔥 Solved **800+ problems** across platforms
+- ♟️ Organized chess tournament with **100+ participants**
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar001&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sirsalkar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=200&section=header&text=Aditya%20Sirsalkar&fontSize=60&fontColor=f3f3f3&fontAlignY=33&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -16,7 +16,6 @@
 ## 🚀 About Me
 
   <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-  
 I am a **Software Engineering student** at **IIIT Allahabad** with a strong foundation in algorithmic problem solving and high-performance web architecture.
 
 * 👨‍💻 **Competitive Coder:** Solved **800+ problems** across platforms. **Knight** on LeetCode (Top 5%), **Specialist** on Codeforces.
@@ -74,15 +73,33 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar001&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=764ba2&fire=f093fb&currStreakLabel=00bfff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaSirsalkar001&theme=2077" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaSirsalkar001&theme=2077" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar001&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+
+</div>
+
+
+<div align="center">
+
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&bg_color=0d1117&color=00bfff&line=764ba2&point=c9d1d9&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake-dark.svg?v=1" />
+</p>
+
 
 
 
@@ -96,27 +113,15 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 
 ---
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaSirsalkar001&style=for-the-badge&color=2196F3&labelColor=0d001a&label=PROFILE+VIEWS" />
+</p> -->
 
-<br/>
-<div align = "center">
-<img src="https://leetcard.jacoblin.cool/AdityaSirsalkar" align = "center" >
 
-<br/>
-<br/>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AdityaSirsalkar" align = "center"/>
-
-<br />
-</div>
-
-<!-- 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/AdityaSirsalkar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=80&section=footer"/>
 
-<br/>
+<sub>⭐ If you like my work, consider starring my repos! Built with ❤️ by Aditya Sirsalkar</sub>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AdityaSirsalkar" />
-
-<!-- <br/> -->
-<!-- </div> --> 
-
+</div>

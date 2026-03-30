@@ -82,18 +82,6 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 </div>
 
----
-
-## 🏅 Achievements
-
-- 🏅 **LeetCode Knight** — Top 5% (Max Rating 1877)
-- ⚡ **Codeforces Specialist** — Max Rating 1465
-- ⭐ **CodeChef 3★** — Max Rating 1640
-- 🎯 **JEE Main 2024** — AIR 5183 (99.68 percentile)
-- 🔥 Solved **800+ problems** across platforms
-- ♟️ Organized chess tournament with **100+ participants**
-
----
 
 ## 🏆 GitHub Achievements
 

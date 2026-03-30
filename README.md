@@ -16,6 +16,7 @@
 ## 🚀 About Me
 
   <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+  
 I am a **Software Engineering student** at **IIIT Allahabad** with a strong foundation in algorithmic problem solving and high-performance web architecture.
 
 * 👨‍💻 **Competitive Coder:** Solved **800+ problems** across platforms. **Knight** on LeetCode (Top 5%), **Specialist** on Codeforces.

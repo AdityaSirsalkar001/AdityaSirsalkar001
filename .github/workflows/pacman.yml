@@ -1,25 +1,25 @@
-name: Generate Pacman Graph
+name: Generate Snake Graph
 
 on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 IMPORTANT FIX
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4   # updated
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
         with:
           github_user_name: AdityaSirsalkar001
           outputs: |
-            dist/pacman.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4   # updated
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

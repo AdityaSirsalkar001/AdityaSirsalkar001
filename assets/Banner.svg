@@ -26,9 +26,11 @@
   
   <g font-family="monospace" font-size="13">
     
+    <!-- Command -->
     <text x="20" y="65" fill="#27ca40">❯</text>
     <text x="40" y="65" fill="#e5e7eb">cat profile.json</text>
     
+    <!-- JSON -->
     <text x="20" y="95" fill="#fbbf24">{</text>
     
     <!-- name -->
@@ -49,20 +51,18 @@
     <!-- focus -->
     <text x="35" y="180" fill="#a78bfa">"focus"</text>
     <text x="100" y="180" fill="#9ca3af">:</text>
-    <text x="110" y="180" fill="#34d399">"Competitive Programming"</text>
-    <text x="110" y="195" fill="#34d399">&amp; Frontend Development"</text>
+    <text x="110" y="180" fill="#34d399">"CP &amp; Frontend"</text>
     
     <!-- goal -->
-    <text x="35" y="215" fill="#a78bfa">"goal"</text>
-    <text x="100" y="215" fill="#9ca3af">:</text>
-    <text x="110" y="215" fill="#34d399">"Building efficient algorithms"</text>
-    <text x="110" y="230" fill="#34d399">and intuitive web apps"</text>
+    <text x="35" y="200" fill="#a78bfa">"goal"</text>
+    <text x="100" y="200" fill="#9ca3af">:</text>
+    <text x="110" y="200" fill="#34d399">"Build Scalable Systems"</text>
     
-    <text x="20" y="255" fill="#fbbf24">}</text>
+    <text x="20" y="230" fill="#fbbf24">}</text>
     
     <!-- cursor -->
-    <text x="20" y="280" fill="#27ca40">❯</text>
-    <rect x="40" y="268" width="10" height="14" fill="#667eea">
+    <text x="20" y="260" fill="#27ca40">❯</text>
+    <rect x="40" y="248" width="10" height="14" fill="#667eea">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
     

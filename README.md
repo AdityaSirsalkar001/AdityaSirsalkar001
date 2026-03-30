@@ -1,18 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aditya+Sirsalkar;IIIT+Allahabad+Scholar+%F0%9F%8E%93;LeetCode+Knight+(1877)+%E2%9A%94%EF%B8%8F;Building+with+Wasm+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://aditya-sirsalkar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/adityasirsalkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adityasirsalkar33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sirsalkar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+
+</div>
+
 
 <p align="center">
   <img src="./assets/Banner.svg?v=1" />
@@ -24,6 +15,7 @@
 
 ## 🚀 About Me
 
+  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 I am a **Software Engineering student** at **IIIT Allahabad** with a strong foundation in algorithmic problem solving and high-performance web architecture.
 
 * 👨‍💻 **Competitive Coder:** Solved **800+ problems** across platforms. **Knight** on LeetCode (Top 5%), **Specialist** on Codeforces.
@@ -31,32 +23,44 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 * ♟️ **Community Leader:** Organized hybrid chess tournaments for **100+ participants**.
 * 🏆 **Background:** Secured **AIR 5183** (99.68%ile) in JEE Main 2024.
 
-  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
 
 <br clear="both">
 
 ---
+<br/>
+<p align="center">
+  <a href="https://aditya-sirsalkar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityasirsalkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adityasirsalkar33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    
+  </a>
+</p>
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
 <div align="center">
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,r,js,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,r,mysql" />
 
 <br/>
 
-**Full Stack & AI**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,materialui" />
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,materialui" />
 
 <br/>
 
-**Tools & Databases**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,mysql,mongodb,postman" />
+**Backend & Tools**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
 
 </div>
 
----
 
 ## 📌 Featured Projects
 
@@ -66,43 +70,50 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 | 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). |
 | ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. |
 
----
 
-## 📊 Coding Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&cache_seconds=86400" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook&cache_seconds=86400" height="150" />
-</div>
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdityaSirsalkar001&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar001&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=764ba2&fire=f093fb&currStreakLabel=00bfff" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&bg_color=0d1117&color=00bfff&line=764ba2&point=c9d1d9&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+
+</div>
+
+
+
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=AdityaSirsalkar001&theme=discord&no-frame=true&no-bg=true&column=6" width="100%"/>
+
+</div>
+
+
+---
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake-dark.svg?v=20" />
+<img src="https://leetcard.jacoblin.cool/AdityaSirsalkar" align = "left" />
 
-</div>
 
----
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AdityaSirsalkar" align = "right"/>
 
-## 🏆 GitHub Achievements
+<br />
 
+<!-- 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
-</div>
 
----
+<img src="https://leetcard.jacoblin.cool/AdityaSirsalkar" />
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AdityaSirsalkar001&icon=0&color=2" />
-</div>
+<br/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AdityaSirsalkar" />
+
+<!-- <br/> -->
+<!-- </div> --> 
+

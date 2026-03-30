@@ -4,6 +4,9 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/Banner.svg?v=1" />
+</p>
 
 
 ---

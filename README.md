@@ -13,11 +13,11 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
-  <img src="./assets/Banner.svg" />
+  <img src="./assets/Banner.svg?v=1" />
 </p>
 
-<br/>
 ---
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
@@ -39,16 +39,17 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 <div align="center">
 
-**Languages**
-<br>
+**Languages**  
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,r,js,ts" />
 
-**Full Stack & AI**
-<br>
+<br/>
+
+**Full Stack & AI**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,materialui" />
 
-**Tools & Databases**
-<br>
+<br/>
+
+**Tools & Databases**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,mysql,mongodb,postman" />
 
 </div>
@@ -68,8 +69,8 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 ## 📊 Coding Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSirsalkar001&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSirsalkar001&layout=compact&theme=tokyonight&hide=jupyter%20notebook&cache_seconds=86400" height="150" />
 </div>
 
 ---
@@ -78,22 +79,24 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSirsalkar001&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=AdityaSirsalkar001&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&theme=tokyo-night" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&theme=tokyo-night&hide_border=true" width="95%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake-dark.svg?v=20" />
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaSirsalkar001/AdityaSirsalkar001/output/github-contribution-grid-snake-dark.svg?v=10" />
-</p>
+---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar001&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSirsalkar001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
 </div>
 
 ---

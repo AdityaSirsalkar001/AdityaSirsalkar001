@@ -30,32 +30,32 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
   <a href="https://aditya-sirsalkar.vercel.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/adityasirsalkar/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="mailto:adityasirsalkar33@gmail.com" style="text-decoration: none;"> 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/AdityaSirsalkar/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/AdityaSirsalkar" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codeforces-0B3D91?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/amaze_iiita_76" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CodeChef-D6A75C?style=for-the-badge&logo=codechef&logoColor=black"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://codolio.com/profile/Aditya_Sirsalkar" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codolio-F4A261?style=for-the-badge&logoColor=black"/>

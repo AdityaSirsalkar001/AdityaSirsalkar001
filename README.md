@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 I am a **Software Engineering student** at **IIIT Allahabad** with a strong foundation in algorithmic problem solving and high-performance web architecture.
 

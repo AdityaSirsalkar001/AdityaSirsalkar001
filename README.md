@@ -27,19 +27,40 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br/>
 
 <p align="center">
-  <a href="https://aditya-sirsalkar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" />
+  <a href="https://aditya-sirsalkar.vercel.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adityasirsalkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:adityasirsalkar33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.linkedin.com/in/adityasirsalkar/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:adityasirsalkar33@gmail.com" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/AdityaSirsalkar/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/AdityaSirsalkar" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codeforces-0B3D91?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/amaze_iiita_76" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CodeChef-D6A75C?style=for-the-badge&logo=codechef&logoColor=black"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codolio.com/profile/Aditya_Sirsalkar" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codolio-F4A261?style=for-the-badge&logoColor=black"/>
+  </a> 
+</p>
 <br/>
 
 ---
@@ -97,7 +118,7 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&bg_color=0d1117&color=00bfff&line=764ba2&point=c9d1d9&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSirsalkar001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BDBF7&line=3BDBF7&point=FFFFFF" width="100%" alt="activity graph" />
 
 </div>
 
@@ -110,25 +131,14 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br/>
 
 ---
-
-## 🏅 Achievements & Highlights
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=AdityaSirsalkar001&theme=discord&no-frame=true&no-bg=true&column=6" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthkhatri2611&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=80&section=footer"/>
 
 <sub>⭐ If you like my work, consider starring my repos! Built with ❤️ by Aditya Sirsalkar</sub>
+
 
 </div>

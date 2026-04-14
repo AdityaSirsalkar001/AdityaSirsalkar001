@@ -2,15 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=200&section=header&text=Aditya%20Sirsalkar&fontSize=60&fontColor=f3f3f3&fontAlignY=33&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
 
+
 </div>
 
 <p align="center">
   <img src="./assets/Banner.svg?v=1" />
+    <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=parthkhatri2611&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>   
+  
+  
+</p>
 </p>
 
 ---
 
-## 🚀 About Me
+
+
+   ## 🚀 About Me     
+ 
+
+
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
@@ -131,9 +142,7 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br/>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthkhatri2611&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=80&section=footer"/>

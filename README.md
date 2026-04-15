@@ -144,9 +144,17 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Drop+a+Star+⭐;Happy+Coding+🚀" alt="Typing SVG" />
  
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; background-color: transparent;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Drop+a+Star+⭐;Happy+Coding+🚀" alt="Typing SVG" />
+    </td>
+    <td style="border: none; background-color: transparent;">
+      <img height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+    </td>
+  </tr>
+</table>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=80&section=footer"/>
 </div> 
 

@@ -78,6 +78,8 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 ---
 
+
+<!--
 ## 💻 Tech Stack
 
 <div align="center">
@@ -98,6 +100,54 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 </div>
 
 <br/>
+-->
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Languages</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,r,mysql&perline=7" />
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,materialui&perline=5" />
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td align="center"><strong>Backend & Tools</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,vercel&perline=8" />
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td align="center"><strong>Core Concepts</strong></td>
+    <td align="center">
+      <code>Data Structures & Algorithms</code> • 
+      <code>Object-Oriented Programming</code> • 
+      <code>Operating Systems</code> • 
+      <code>Database Management Systems</code> • 
+      <code>Computer Networks</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
 
 ---
 

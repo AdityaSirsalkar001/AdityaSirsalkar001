@@ -16,11 +16,11 @@
 </p>
 </p>
 
----
 
 
 
-   ## 🚀 About Me     
+
+   <!--## 🚀 About Me     
  
 
 
@@ -36,7 +36,7 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br clear="both"/>
 
 ---
-
+-->
 <br/>
 
 <p align="center">
@@ -145,11 +145,13 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Drop+a+Star+⭐;Happy+Coding+🚀" alt="Typing SVG" />
+ 
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=80&section=footer"/>
 </div> 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=80&section=footer"/>
 
 <sub>⭐ If you like my work, consider starring my repos! Built with ❤️ by Aditya Sirsalkar</sub>
 

@@ -103,6 +103,19 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br/>
 -->
 
+---
+
+## 👤 About Me
+
+```
+> Solving problems through competitive programming and strengthening DSA.
+> Learning and building in web development.
+> Focused on consistency, logic building, and writing efficient code.
+```
+
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">

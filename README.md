@@ -77,8 +77,6 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 </p>
 <br/>
 
----
-
 
 <!--
 ## 💻 Tech Stack

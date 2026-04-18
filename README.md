@@ -1,6 +1,11 @@
- <div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=200&section=header&text=Aditya%20Sirsalkar&fontSize=60&fontColor=ffffff&fontAlignY=33&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
-</div> 
+</div> -->
+
+<div align="center">
+  <img src="./assets/aditya_sirsalkar_banner_dark.svg" />
+</div>
+
 
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Aditya+Sirsalkar;Competitive+Programmer;Full-Stack+Developer" alt="Typing SVG" />

@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <img src="./assets/aditya_sirsalkar_banner_dark.svg" />
+  <img src="./assets/file.svg" width = 100% />
 </div>
 <br/>
 

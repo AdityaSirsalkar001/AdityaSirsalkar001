@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <img src="./assets/file.svg" width = 100% />
+  <img src="./assets/file.png" width = 100% />
 </div>
 <br/>
 

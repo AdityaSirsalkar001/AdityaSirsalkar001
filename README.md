@@ -5,7 +5,7 @@
 <div align="center">
   <img src="./assets/aditya_sirsalkar_banner_dark.svg" />
 </div>
-
+<br/>
 
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Aditya+Sirsalkar;Competitive+Programmer;Full-Stack+Developer" alt="Typing SVG" />

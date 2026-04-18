@@ -63,7 +63,7 @@
   <!-- Title: "Aditya" purple, "Sirsalkar" light grey -->
   <g style="fill:none;stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
     <text x="100" y="84" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#A78BFA" letter-spacing="-0.5" style="fill:rgb(167, 139, 250);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Segoe UI&quot;, system-ui, sans-serif;font-size:42px;font-weight:700;text-anchor:start;dominant-baseline:auto">Aditya</text>
-    <text x="278" y="84" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#E2E8F0" letter-spacing="-0.5" style="fill:rgb(226, 232, 240);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Segoe UI&quot;, system-ui, sans-serif;font-size:42px;font-weight:700;text-anchor:start;dominant-baseline:auto"> Sirsalkar</text>
+    <text x="240" y="84" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#E2E8F0" letter-spacing="-0.5" style="fill:rgb(226, 232, 240);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Segoe UI&quot;, system-ui, sans-serif;font-size:42px;font-weight:700;text-anchor:start;dominant-baseline:auto"> Sirsalkar</text>
   </g>
 
   <!-- Subtitle -->

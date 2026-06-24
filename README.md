@@ -177,9 +177,10 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 | Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** | `React` `Node.js` `Gemini` | **Integrated Hospital-Patient Bridge.** Reduced scheduling time by **40%**. Integrated **Google Gemini AI** for intelligent symptom processing. |
-| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). |
-| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. |
+| 🏥 **[Swasthya-Setu](https://github.com/AdityaSirsalkar001/Swasthya_Setu)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://swasthya-setu-zeta.vercel.app/) | `React` `Node.js` `Gemini` | **Integrated Hospital-Patient Bridge.** Reduced scheduling time by **40%**. Integrated **Google Gemini AI** for intelligent symptom processing. |
+| 🕸️ **[Pathfinding Visualizer](https://github.com/AdityaSirsalkar001/Pathfinding_Visualizer)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://pathfinding-visualizer-phi-orpin.vercel.app/) | `C++` `Wasm` `React` | **High-Performance Tool.** Engineered using **WebAssembly** for **10x faster execution** (sub-50ms). |
+| ⚡ **[FocusFlow](https://github.com/AdityaSirsalkar001/FocusFlow)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://project1-nine-phi.vercel.app/) | `React` `Tailwind` | **Productivity Web App.** Handles 50+ concurrent tasks with **zero latency**. |
+| 🗄️ **[MiniDB](https://github.com/AdityaSirsalkar001/miniDB)** | `C++17` `Crow` `React` | **Relational DB Engine built from scratch.** Custom B+ Tree index, LRU buffer pool, WAL recovery, strict 2PL lock manager, and REST API — zero dependencies on existing databases. |
 
 <br/>
 
